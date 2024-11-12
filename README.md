@@ -48,8 +48,8 @@ Alternatively, you can double-click the BrowserFX.jar file to launch the applica
 
 The main interface of BrowserFX consists of the following key elements:
 
-![BrowserFX Main Interface](![Screenshot 2024-10-16 221210](https://github.com/user-attachments/assets/2afc1101-b978-4327-a2ec-e872a9b77c91)
-)
+![Screenshot 2024-10-16 221210](https://github.com/user-attachments/assets/2afc1101-b978-4327-a2ec-e872a9b77c91)
+
 
 ![Screenshot 2024-10-16 220932](https://github.com/user-attachments/assets/ed74bb57-6847-48f0-96f1-de19e7ab9c40)
 
@@ -63,8 +63,8 @@ The main interface of BrowserFX consists of the following key elements:
 
 The download manager interface, implemented in the `FileRetrievalManager` class, offers comprehensive control over file downloads:
 
-![BrowserFX Download Manager](![Screenshot 2024-10-16 220319](https://github.com/user-attachments/assets/624ac29c-de10-4a19-8510-d0de8209bd9f)
-)
+![Screenshot 2024-10-16 220319](https://github.com/user-attachments/assets/624ac29c-de10-4a19-8510-d0de8209bd9f)
+
 
 ![Screenshot 2024-10-16 214745](https://github.com/user-attachments/assets/2244afdd-0379-4b23-9b23-2eee4a49c474)
 
