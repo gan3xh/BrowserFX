@@ -4,7 +4,7 @@ BrowserFX is a feature-rich, high-performance web browser application built usin
 
 ## Documentation
 
-For more detailed information about the BrowserFX project, including the design, implementation, and evaluation, please refer to the [Ganesh_Kumar_projectreport_github.pdf](https://github.com/user-attachments/files/17721540/Ganesh_Kumar_projectreport_github.pdf)
+For more detailed information about the BrowserFX project, including the design, implementation, and evaluation, please refer to the [Project Documentation](Ganesh_Kumar_projectreport_github.pdf)
 
 ## Motivation and Purpose
 
