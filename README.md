@@ -2,7 +2,7 @@
 
 BrowserFX is a feature-rich, high-performance web browser application built using the JavaFX framework. Designed with both functionality and extensibility in mind, BrowserFX offers a modern browsing experience with a focus on user productivity and customization.
 
-## Documentation
+# Documentation
 
 For more detailed information about the BrowserFX project, including the design, implementation, and evaluation, please refer to the [Project Documentation](Ganesh_Kumar_projectreport_github.pdf).
 
